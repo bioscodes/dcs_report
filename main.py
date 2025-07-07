@@ -19,10 +19,10 @@ LOG_FILE = script_parent / 'output' / 'event.log'
 
 OUTPUT_REPORT_PATH = script_parent / 'output' / 'report_'
 DEFAULT_POSITIONS = {
-    '3115142': '24/7 Cisco Urgent',
+    '3115142': '24/7 NCR GHD Urgent',
     '3115140': '24/7 O1 Urgent',
     '3115141': '24/7 O2 Planned/Backup',
-    '3110230': '24/7 Cisco Urgent',
+    '3110230': '24/7 NCR GHD Urgent',
     '3110228': '24/7 T1 Urgent',
     '3110229': '24/7 T2 Planned/Backup'
 }
